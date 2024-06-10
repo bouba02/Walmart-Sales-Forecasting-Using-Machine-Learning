@@ -3,9 +3,9 @@ Walmart Sales Forecasting Using Machine Learning
 
 <h3>Blog lié à ce projet:</h3>
 
-<b>https://medium.com/@nikiemaboubacar/walmart-sales-forecasting-using-machine-learning-6ff649ea4917<b>
+<b>https://medium.com/@nikiemaboubacar/walmart-sales-forecasting-using-machine-learning-6ff649ea4917</b>
  
-Qu’est-ce que j’ai appris de ce projet:
+<b>Qu’est-ce que j’ai appris de ce projet:</b>
 
 • Techniques d'Analyse Exploratoire des Données (AED)
 
@@ -22,7 +22,8 @@ Qu’est-ce que j’ai appris de ce projet:
 Datasets
 
 
-Il s'agit des données historiques couvrant les ventes du 05/02/2010 au 26/10/2012, dans le fichier Walmart.csv Dans ce fichier, vous trouverez les champs suivants :
+Il s'agit des données historiques couvrant les ventes du 05/02/2010 au 26/10/2012, dans le fichier Walmart.csv 
+Dans ce fichier, vous trouverez les champs suivants :
  
 Store - le numéro du magasin
 
@@ -50,7 +51,7 @@ Thanksgiving : 26 novembre 2010, 25 novembre 2011, 23 novembre 2012, 29 novembre
 
 Noël : 31 décembre -10, 30-déc-11, 28-déc-12, 27-déc-13
 
-<h2>Les étapes de réalisations de notre projet</h2>
+<b><h2>Les étapes de réalisations de notre projet</h2><b>
 
 1- Exploration de la base de données
 
